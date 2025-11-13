@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<!-- saved from url=(0068)https://cheqi.pharmacy.purdue.edu/what-we-do/improving-health-access -->
+<html lang="en" dir="ltr" class="no-touchevents cssanimations js fontawesome-i2svg-active fontawesome-i2svg-complete" style=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+<style type="text/css">svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;-webkit-box-sizing:border-box;box-sizing:border-box;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.3333333333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-both,.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-both,:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2.5em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1.25em}.svg-inline--fa.fa-stack-2x{height:2em;width:2.5em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}.svg-inline--fa .fa-primary{fill:var(--fa-primary-color,currentColor);opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa .fa-secondary{fill:var(--fa-secondary-color,currentColor);opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-primary{opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-secondary{opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa mask .fa-primary,.svg-inline--fa mask .fa-secondary{fill:#000}.fad.fa-inverse{color:#fff}</style><link rel="canonical" href="https://cheqi.pharmacy.purdue.edu/what-we-do/improving-health-access">
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="https://cheqi.pharmacy.purdue.edu/themes/custom/cop_dxpr_subtheme/favicon.ico" type="image/vnd.microsoft.icon">
+<
+    <title>Health Access | CHEQI</title>
+    <style>ul.dropdown-menu {display: none;}</style>
+    <link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/progress.module.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/ajax-progress.module.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/align.module.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/fieldgroup.module.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/container-inline.module.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/clearfix.module.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/details.module.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/hidden.module.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/item-list.module.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/js.module.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/nowrap.module.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/position-container.module.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/reset-appearance.module.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/resize.module.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/system-status-counter.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/system-status-report-counters.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/system-status-report-general-info.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/tablesort.module.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/scroll.top.button.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/webform_bootstrap.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/bootstrap.css" integrity="sha256-3p/H8uQndDeQADwalAGPYNGwk6732TJRjYcY05O81og=" crossorigin="anonymous">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/drupal-bootstrap.css" integrity="sha512-ys0R7vWvMqi0PjJvf7827YdAhjeAfzLA3DHX0gE/sPUYqbN/sxO6JFzZLvc/wazhj5utAy7rECg1qXQKIEZOfA==" crossorigin="anonymous">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/drupal-bootstrap(1).css" integrity="sha512-ixuOBF5SPFLXivQ0U4/J9sQbZ7ZjmBzciWMBNUEudf6sUJ6ph2zwkpFkoUrB0oUy37lxP4byyHasSpA4rZJSKg==" crossorigin="anonymous">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/drupal-bootstrap(2).css" integrity="sha512-MiCziWBODHzeWsTWg4TMsfyWWoMltpBKnf5Pf5QUH9CXKIVeGpEsHZZ4NiWaJdgqpDzU/ahNWaW80U1ZX99eKw==" crossorigin="anonymous">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/drupal-bootstrap(3).css" integrity="sha512-US+XMOdYSqB2lE8RSbDjBb/r6eTTAv7ydpztf8B7hIWSlwvzQDdaAGun5M4a6GRjCz+BIZ6G43l+UolR+gfLFQ==" crossorigin="anonymous">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/drupal-bootstrap(4).css" integrity="sha512-3gQUt+MI1o8v7eEveRmZzYx6fsIUJ6bRfBLMaUTzdmNQ/1vTWLpNPf13Tcrf7gQ9iHy9A9QjXKxRGoXEeiQnPA==" crossorigin="anonymous">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/drupal-bootstrap(5).css" integrity="sha512-AwNfHm/YKv4l+2rhi0JPat+4xVObtH6WDxFpUnGXkkNEds3OSnCNBSL9Ygd/jQj1QkmHgod9F5seqLErhbQ6/Q==" crossorigin="anonymous">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/drupal-bootstrap(6).css" integrity="sha512-j4mdyNbQqqp+6Q/HtootpbGoc2ZX0C/ktbXnauPFEz7A457PB6le79qasOBVcrSrOBtGAm0aVU2SOKFzBl6RhA==" crossorigin="anonymous">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/dxpr-theme.admin.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/bootstrap-3.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/bootstrap-theme.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/drupal-breadcrumbs.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/drupal-comments.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/drupal-pager.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/drupal-webform.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/dxpr-theme-branding-header.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/dxpr-theme-builder.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/dxpr-theme-full-screen-search.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/dxpr-theme-header.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/dxpr-theme-header--mobile.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/dxpr-theme-header--side.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/dxpr-theme-header--top.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/dxpr-theme-purdue-footers.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/dxpr-theme-secondary-header.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/dxpr-theme-sitespecific.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/purdueblocks.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/footer-menu.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/forms.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/feed.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/ig-feed.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/admin.wptheme.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/app.wptheme.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/dxpr-theme-subtheme.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/wdk0hpl.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/helper-classes.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/jquery-ui.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/layout.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/page-title.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/pager-prevnext.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/typography.css">
+<link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/themesettings-cop_dxpr_subtheme.css">
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/156","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtag":{"tagId":"GT-PHW3GSW","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"eJyNleF2gyAMhV9I6o89kAcwVXqAMAhdfftR7dqszVz_eOTeTwzmpjWIVCjr1JufuyFlGFx01N2lPmHCM2SmEKInlzqLaRgvKQ-lGpohwGMj9bHrrmuBGHNN2iuTQY8212DK35DFECDSDpH01Or-0_4Cc8QcJKCtthpbKTqOLk5qbiXJuzG4Ov8vdKzeq2IzQFQFdLbzPv_OizdGqYDGefHDvrLFjW-ShFKvGZhqHms7WesvZLEhD7aAxTjqvLx1sOIISgLrjs4K5PZG1XJQRTcHqZrJo2n9L7T41lkBmMGntq31uhSQdjh9VmgnqE7wvF6wkmBc46jIkdigNauqjd85wkV6mpaEU5udeelWY1P1GFzkAp9AUd5Gj1nCzO266iQBP8PEndfBkN1bEPbMe7T3oTXT-8g1zIzgCfolX6PDhKfMMOcpLMx5pISJt3gwheXiSWWBYA5LwhEj6S8ouJZ8vz-U87TnHcrsQjchTh4G0lM_tcvz-qBP-tK1Hyr0fmhfbTCVCGP_onRlKQShN7pAd8vB8Pi3eFG-AYk2iog","theme":"cop_dxpr_subtheme","theme_token":null},"ajaxTrustedUrl":[],"button_text":"Scroll to top","button_style":"image","button_animation":"fade","button_animation_speed":200,"scroll_distance":100,"scroll_speed":300,"bootstrap":{"forms_has_error_value_toggle":1,"popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"top","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto top","tooltip_selector":"","tooltip_trigger":"hover"},"dxpr_themeSettings":{"breadcrumbsSeparator":"\u003E","headerHeight":"150","headerOffset":"60","headerMobileHeight":"60","headerSideDirection":"left"},"user":{"uid":0,"permissionsHash":"ebcccc918f3dcbb3f934198044c71420b22353d4ef0074708018a89b135a6505"}}</script>
+<script src="./Health Access _ CHEQI_files/modernizr-custom-d8-dxpr-theme.js.download"></script>
+<script src="./Health Access _ CHEQI_files/drupalSettingsLoader.js.download"></script>
+<script src="./Health Access _ CHEQI_files/all.js.download" defer="" crossorigin="anonymous"></script>
+<script src="./Health Access _ CHEQI_files/v4-shims.js.download" defer="" crossorigin="anonymous"></script>
+<script src="./Health Access _ CHEQI_files/gtag.js.download"></script><script async="" src="./Health Access _ CHEQI_files/js" type="text/javascript"></script>
+
+  </head>
+  <body class="page-node-156 html path-node page-node-type-page has-glyphicons body--dxpr-theme-header-top body--dxpr-theme-header-not-overlay body--dxpr-theme-header-normal body--dxpr-theme-nav-mobile">
+    <script>
+  var dxpr_themeNavBreakpoint = 1200;
+  var dxpr_themeWindowWidth = window.innerWidth;
+  if (dxpr_themeWindowWidth > dxpr_themeNavBreakpoint) {
+    document.body.className += ' body--dxpr-theme-nav-desktop';
+  }
+  else {
+    document.body.className += ' body--dxpr-theme-nav-mobile';
+  }
+  </script>
+    <a href="https://cheqi.pharmacy.purdue.edu/what-we-do/improving-health-access#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+          <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    
+
+    <header id="branding" class="dxpr-theme-branding-header" role="banner">
+        <div class="dxpr-theme-fluid branding-container">
+      <div class="row container-row">
+        <div class="col-sm-12 container-col">
+          <div class="dxpr-theme-fluid branding">
+              <div class="region region-branding">
+        <div class="wrap-branding">
+        <a class="logo navbar-btn" href="https://cheqi.pharmacy.purdue.edu/" title="Home" rel="home">
+      <img id="logo" src="./Health Access _ CHEQI_files/CHEQI_H-Full-Reverse-RGB_1.png" alt="Home">
+    </a>
+        </div>
+                                      <section id="block-brandingprint" class="block block-block-content block-block-contente4a3caee-8407-467e-8f04-cb29cf346bf4 clearfix">
+  
+          
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><img class="logo-print" src="./Health Access _ CHEQI_files/header-logo-print.svg"></p>
+</div>
+      
+  </section>
+
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+  
+                                
+    <header class="navbar navbar dxpr-theme-header dxpr-theme-header--normal dxpr-theme-header--hover-opacity dxpr-theme-header--side" id="navbar" role="banner">
+            <div class="dxpr-theme-fluid navbar-container">
+                <div class="navbar-header">
+          
+                                <a id="dxpr-theme-menu-toggle" href="https://cheqi.pharmacy.purdue.edu/what-we-do/improving-health-access#" class="three-dash" data-once="dxpr_themeMenuToggle"><span></span><div class="screenreader-text visually-hidden">Toggle menu</div></a>
+                  </div>
+
+                            <nav role="navigation" id="dxpr-theme-main-menu" class="dxpr-theme-main-menu" style="position: fixed;"><nav class="menu__breadcrumbs" style="top: 60px;"><a>menu</a></nav>
+              <div class="region region-navigation-collapsible">
+                                        
+<section id="block-cop-dxpr-subtheme-main-menu" class="block block-system block-system-menu-blockmain clearfix">
+  
+          
+
+      
+              <ul class="menu nav navbar-nav menu__level menu__level--current" style="top: 80px; height: calc(-80px + 100vh);">
+                            <li class="expanded dropdown menu__item">
+        <a href="https://cheqi.pharmacy.purdue.edu/what-we-do/improving-health-access" class="dropdown-toggle menu__link" data-target="#" data-submenu="About">About</a>
+                                  <ul class="dropdown-menu menu__level" data-menu="About" style="top: 80px; height: calc(-80px + 100vh);">
+                            <li class="expanded dropdown menu__item">
+        <a href="https://cheqi.pharmacy.purdue.edu/about/mission-and-vision" class="menu__link">Mission and Vision</a>
+                  </li>
+                        <li class="expanded dropdown menu__item">
+        <a href="https://cheqi.pharmacy.purdue.edu/special-thanks" class="menu__link">Special Thanks</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="expanded dropdown active menu__item" style="position: static;">
+        <a href="https://cheqi.pharmacy.purdue.edu/what-we-do/improving-health-access" class="dropdown-toggle menu__link" data-target="#" data-submenu="What We Do">What We Do</a>
+                                  <ul class="dropdown-menu menu__level" data-menu="What We Do" style="top: 80px; height: calc(-80px + 100vh);">
+                            <li class="expanded dropdown active menu__item">
+        <a href="https://cheqi.pharmacy.purdue.edu/what-we-do/improving-health-access" class="dxpr-theme-megamenu__heading menu__link" data-target="#" data-submenu="Health Access">Health Access</a>
+                                  <ul class="dxpr-theme-megamenu menu__level" data-menu="Health Access" style="top: 80px; height: calc(-80px + 100vh);">
+                            <li class="expanded dropdown menu__item">
+        <a href="https://cheqi.pharmacy.purdue.edu/what-we-do/improving-health-access/cardiovascular-risk-reduction-cvrr-pharmacist-chw-collaboration" title="Cardiovascular Risk Reduction" data-drupal-link-system-path="node/188" class="menu__link">Cardiovascular Risk Reduction (CVRR) Pharmacist-CHW Collaboration</a>
+                  </li>
+                        <li class="expanded dropdown menu__item">
+        <a href="https://cheqi.pharmacy.purdue.edu/what-we-do/improving-health-access/charitable-pharmacy" data-drupal-link-system-path="node/196" class="menu__link">Charitable Pharmacy</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="expanded dropdown menu__item">
+        <a href="https://cheqi.pharmacy.purdue.edu/what-we-do/workforce-development" class="dxpr-theme-megamenu__heading menu__link" data-target="#" data-submenu="Workforce Development">Workforce Development</a>
+                                  <ul class="dxpr-theme-megamenu menu__level" data-menu="Workforce Development" style="top: 80px; height: calc(-80px + 100vh);">
+                            <li class="expanded dropdown menu__item">
+        <a href="https://cheqi.pharmacy.purdue.edu/initiatives/community-health-workforce-development-institute" class="menu__link">Community Health Workforce Development Institute</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="expanded dropdown menu__item">
+        <a href="https://cheqi.pharmacy.purdue.edu/what-we-do/student-engagement" class="dxpr-theme-megamenu__heading menu__link" data-target="#" data-submenu="Student Engagement">Student Engagement</a>
+                                  <ul class="dxpr-theme-megamenu menu__level" data-menu="Student Engagement" style="top: 80px; height: calc(-80px + 100vh);">
+                            <li class="expanded dropdown menu__item">
+        <a href="https://cheqi.pharmacy.purdue.edu/what-we-do/student-engagement/student-advisory-board" data-drupal-link-system-path="node/191" class="menu__link">Student Advisory Board</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="expanded dropdown menu__item">
+        <a href="https://cheqi.pharmacy.purdue.edu/what-we-do/education-and-training" class="dxpr-theme-megamenu__heading menu__link" data-target="#" data-submenu="Education and Training">Education and Training</a>
+                                  <ul class="dxpr-theme-megamenu menu__level" data-menu="Education and Training" style="top: 80px; height: calc(-80px + 100vh);">
+                            <li class="expanded dropdown menu__item">
+        <a href="https://cheqi.pharmacy.purdue.edu/what-we-do/education-and-training/fellowship" class="menu__link">Fellowship</a>
+                  </li>
+                        <li class="expanded dropdown menu__item">
+        <a href="https://cheqi.pharmacy.purdue.edu/what-we-do/education-and-training/student-internships" data-drupal-link-system-path="node/150" class="menu__link">Student Internships</a>
+                  </li>
+        </ul>
+  
+            </li>
+        </ul>
+  
+            </li>
+                        <li class="expanded dropdown menu__item">
+        <a href="https://cheqi.pharmacy.purdue.edu/what-we-do/improving-health-access" class="dropdown-toggle menu__link" data-target="#" data-submenu="News and Stories">News and Stories</a>
+                                  <ul class="dropdown-menu menu__level" data-menu="News and Stories" style="top: 80px; height: calc(-80px + 100vh);">
+                            <li class="expanded dropdown menu__item">
+        <a href="https://cheqi.pharmacy.purdue.edu/news" data-drupal-link-system-path="news" class="menu__link">News Articles</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="expanded dropdown menu__item">
+        <a href="https://cheqi.pharmacy.purdue.edu/what-we-do/improving-health-access" class="dropdown-toggle menu__link" data-target="#" data-submenu="Contact Us">Contact Us</a>
+                                  <ul class="dropdown-menu menu__level" data-menu="Contact Us" style="top: 80px; height: calc(-80px + 100vh);">
+                            <li class="expanded dropdown menu__item">
+        <a href="https://connect.purdue.edu/s/givenow?dids=028883&amp;appealcode=18704" class="menu__link">Donate</a>
+                  </li>
+                        <li class="expanded dropdown menu__item">
+        <a href="https://cheqi.pharmacy.purdue.edu/contact-us" data-drupal-link-system-path="node/103" class="menu__link">Contact Us</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="expanded dropdown menu__item">
+        <a href="https://cheqi.pharmacy.purdue.edu/" data-drupal-link-system-path="&lt;front&gt;" class="menu__link">Home</a>
+                  </li>
+        </ul>
+  
+
+
+  </section>
+
+  </div>
+
+            </nav>
+                      </div>
+    </header>
+  
+
+
+
+<div class="wrap-containers">
+
+        <div class="region region-highlighted">
+    <div data-drupal-messages-fallback="" class="hidden"></div>
+
+  </div>
+
+  
+
+        <div class="page-title-full-width-container" id="page-title-full-width-container">
+          <header role="banner" id="page-title" class="dxpr-theme-fluid page-title-container">
+            
+    <h1 class="page-title">
+<span>Sendy Servers - page update	2 </span>
+</h1>
+
+
+    <ol class="breadcrumb">
+          <li>
+                  <a href="https://cheqi.pharmacy.purdue.edu/" data-once="dxpr_theme">Home</a> <span class="dxpr-theme-breadcrumb-spacer">&gt;</span> 
+              </li>
+          <li>
+                  What We Do
+              </li>
+          <li>
+                  Health Access
+              </li>
+      </ol>
+
+
+
+      </header>
+    </div>
+  
+
+    <div role="main" class="main-container container js-quickedit-main-content clearfix">
+        <div class="row">
+                
+                          
+      <section class="col-sm-12">
+
+                
+                
+                          <a id="main-content"></a>
+            <div class="region region-content">
+      <article data-history-node-id="156" class="page full clearfix node">
+
+  
+    
+  <div class="content">
+        <form action="/search" method="get">
+			<input type="search" name="q" placeholder="Search...">
+			<button type="submit">Search</button>
+		</form>
+      </div>
+
+      
+  
+</article>
+
+
+  </div>
+
+              </section>
+
+                    </div><!-- end .ow -->
+      </div><!-- end main-container -->
+
+</div>
+
+      <footer class="dxpr-theme-footer clearfix" role="contentinfo">
+            <div class="dxpr-theme-fluid footer-container">
+                  <div class="region region-footer">
+                                        <section id="block-footermenusfrompurdue" class="block block-block-content block-block-contentb6c54ad6-06c6-4638-bee4-4bf2e1856f21 clearfix">
+  
+          
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="footer"><div class="container"><div class="row panel-group" id="accordion"><div class="motto col-lg-4 col-md-4 col-sm-12"><div class="taglineContainer"><div class="tagline"><img class="logo-horizontal" src="./Health Access _ CHEQI_files/footer-logo-horizontal.svg"> <img class="logo-vertical" src="./Health Access _ CHEQI_files/footer-logo-vertical.svg"></div></div><div class="social"><a href="https://www.facebook.com/CHEqIStudentsPurdue" rel="noopener" target="_blank"><span class="sr-only">Facebook</span><svg class="svg-inline--fa fa-facebook-f fa-w-10" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-f" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg=""><path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg><!-- <span class="fa fa-facebook"> </span> --></a><a href="https://www.instagram.com/cheqi_purdue" rel="noopener" target="_blank"><span class="sr-only">Instagram</span><svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg><!-- <span class="fa fa-instagram"> </span> --></a><a href="https://www.linkedin.com/in/cheqipurdue/" rel="noopener" target="_blank"><span class="sr-only">LinkedIn</span><svg class="svg-inline--fa fa-linkedin-in fa-w-14" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin-in" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg><!-- <span class="fa fa-linkedin"> </span> --></a><a href="mailto:cheqi@purdue.edu" rel="noopener" target="_blank"><span class="sr-only">EMail</span></a></div></div></div></div></div></div>
+      
+  </section>
+                                    <section id="block-footerbottomfrompurdue" class="block block-block-content block-block-content35e54790-df5b-4184-a9c9-09a8b3954038 clearfix">
+  
+          
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="bottom"><div class="container"><div class="row"><div class="no-col-layout-please"><p>Center for Health Excellence, Quality and Innovation, Dept. of Pharmacy Practice, 640 Eskenazi Ave, Indianapolis, IN 46202 | <a href="mailto:cheqi@purdue.edu">cheqi@purdue.edu</a> | (317) 880-5406</p><p><a href="https://www.purdue.edu/purdue/disclaimer.php">© 2022 Purdue University</a> | <a href="https://www.purdue.edu/purdue/ea_eou_statement.php">An equal access/equal opportunity university</a> | <a href="https://www.purdue.edu/purdue/about/integrity_statement.php">Integrity Statement</a> | <a href="https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php" target="_blank">Copyright Complaints</a></p><p>Contact <a href="mailto:pharmacy-webmaster@purdue.edu?subject=Accessibility%20Issue%20with%20Your%20Webpage">pharmacy-webmaster@purdue.edu</a> for accessibility issues with this page | <a href="https://www.purdue.edu/disabilityresources/">Accessibility Resources</a> | <a href="https://www.purdue.edu/purdue/contact-us">Contact Purdue</a></p></div></div></div></div></div>
+      
+  </section>
+
+  </div>
+
+              </div>
+    </footer>
+  
+
+  </div>
+
+    <script src="./Health Access _ CHEQI_files/jquery.min.js.download"></script>
+<script src="./Health Access _ CHEQI_files/underscore-min.js.download"></script>
+<script src="./Health Access _ CHEQI_files/once.min.js.download"></script>
+<script src="./Health Access _ CHEQI_files/drupal.js.download"></script>
+<script src="./Health Access _ CHEQI_files/drupal.init.js.download"></script>
+<script src="./Health Access _ CHEQI_files/debounce.js.download"></script>
+<script src="./Health Access _ CHEQI_files/index.umd.min.js.download"></script>
+<script src="./Health Access _ CHEQI_files/bootstrap-pre-init.js.download"></script>
+<script src="./Health Access _ CHEQI_files/bootstrap.js.download" integrity="sha256-DSHWUwfs+dyvqNBAlaN3fBLYhXtZgMDSoNiXIPCv+E4=" crossorigin="anonymous"></script>
+<script src="./Health Access _ CHEQI_files/drupal.bootstrap.js.download"></script>
+<script src="./Health Access _ CHEQI_files/attributes.js.download"></script>
+<script src="./Health Access _ CHEQI_files/theme.js.download"></script>
+<script src="./Health Access _ CHEQI_files/popover.js.download"></script>
+<script src="./Health Access _ CHEQI_files/tooltip.js.download"></script>
+<script src="./Health Access _ CHEQI_files/dxpr-theme-breadcrumbs.min.js.download"></script>
+<script src="./Health Access _ CHEQI_files/classie.js.download"></script>
+<script src="./Health Access _ CHEQI_files/dxpr-theme-multilevel-mobile-nav.min.js.download"></script>
+<script src="./Health Access _ CHEQI_files/dxpr-theme-header.min.js.download"></script>
+<script src="./Health Access _ CHEQI_files/progress.js.download"></script>
+<script src="./Health Access _ CHEQI_files/progress(1).js.download"></script>
+<script src="./Health Access _ CHEQI_files/loadjs.min.js.download"></script>
+<script src="./Health Access _ CHEQI_files/announce.js.download"></script>
+<script src="./Health Access _ CHEQI_files/message.js.download"></script>
+<script src="./Health Access _ CHEQI_files/message(1).js.download"></script>
+<script src="./Health Access _ CHEQI_files/ajax.js.download"></script>
+<script src="./Health Access _ CHEQI_files/ajax(1).js.download"></script>
+<script src="./Health Access _ CHEQI_files/gtag.ajax.js.download"></script>
+<script src="./Health Access _ CHEQI_files/scroll.top.button.js.download"></script>
+<script src="./Health Access _ CHEQI_files/webform.behaviors.js.download"></script>
+<script src="./Health Access _ CHEQI_files/states.js.download"></script>
+<script src="./Health Access _ CHEQI_files/states(1).js.download"></script>
+<script src="./Health Access _ CHEQI_files/webform.states.js.download"></script>
+<script src="./Health Access _ CHEQI_files/webform_bootstrap.states.js.download"></script>
+
+    <div class="hidden" id="dxpr-theme-js-seed">sfy39587stp18</div>
+  
+
+<div id="drupal-live-announce" class="visually-hidden" aria-live="polite" aria-busy="false"></div><a id="scrollTopButton-image" href="https://cheqi.pharmacy.purdue.edu/what-we-do/improving-health-access#" class="scroll-top-button"></a></body></html>
