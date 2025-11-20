@@ -9,7 +9,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="icon" href="https://cheqi.pharmacy.purdue.edu/themes/custom/cop_dxpr_subtheme/favicon.ico" type="image/vnd.microsoft.icon">
 <
-    <title>Health Access | CHEQI</title>
+    <title>Sendy Servers - CHEQI</title>
     <style>ul.dropdown-menu {display: none;}</style>
     <link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/progress.module.css">
 <link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/ajax-progress.module.css">
@@ -257,7 +257,7 @@
           <header role="banner" id="page-title" class="dxpr-theme-fluid page-title-container">
             
     <h1 class="page-title">
-<span>Sendy Servers - page update	2 </span>
+<span>Sendy Servers - CHEQI </span>
 </h1>
 
 
@@ -377,6 +377,42 @@
 <script src="./Health Access _ CHEQI_files/webform_bootstrap.states.js.download"></script>
 
     <div class="hidden" id="dxpr-theme-js-seed">sfy39587stp18</div>
-  
+
+
+
+<!-- Centered Chat Input Line -->
+<div style="
+    position:absolute;
+    top:40%;
+    left:50%;
+    transform:translateX(-50%);
+    width:300px;
+    z-index:9999;
+    text-align:center;
+">
+  <label for="sendy-chat-input" style="color:black; font-weight:bold;">
+    Enter your health inquiry:
+  </label>
+  <input id="sendy-chat-input"
+         type="text"
+         placeholder="Type your question..."
+         style="
+            width:100%;
+            padding:8px;
+            border-radius:5px;
+            border:1px solid #ccc;
+         ">
+</div>
+
+<script>
+  // Variable to store user input
+  let userChatInput = "";
+
+  document.getElementById("sendy-chat-input").addEventListener("input", function(e) {
+    userChatInput = e.target.value;
+  });
+</script>
+
+
 
 <div id="drupal-live-announce" class="visually-hidden" aria-live="polite" aria-busy="false"></div><a id="scrollTopButton-image" href="https://cheqi.pharmacy.purdue.edu/what-we-do/improving-health-access#" class="scroll-top-button"></a></body></html>
