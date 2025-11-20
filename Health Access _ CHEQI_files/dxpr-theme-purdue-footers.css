@@ -1,0 +1,412 @@
+/*
+ * dxpr-theme-purdue-footers.css
+ * footer styles swiped from .purdue.edu main page, 2022-02-04 JJR
+ * tweaked a bit for our site
+ * */
+.footer {
+ width:100%;
+ background-color:#000;
+ overflow:hidden
+}
+.footer #accordion {
+ margin-bottom:0
+}
+.footer #accordion .panel {
+ border:none;
+ background-color:transparent;
+ margin-top:0;
+ padding:15px;
+ border-bottom:solid 1px #333;
+ font-size:0.875rem;
+ line-height:2.3125em
+}
+.footer #accordion .panel a {
+ display:inline-block;
+ width:100%
+}
+.footer #accordion .panel a:link,
+.footer #accordion .panel a:visited {
+ color:#adadad;
+ font-weight:400;
+ text-decoration:none
+}
+.footer #accordion .panel a:hover,
+.footer #accordion .panel a:active {
+ color:#fff;
+ font-weight:400;
+ text-decoration:none
+}
+.footer #accordion .panel .panel-heading {
+ padding:0;
+ background-color:transparent;
+ font-size:1.3125em
+}
+.footer #accordion .panel .panel-heading .panel-title {
+ font-family:acumin-pro-semi-condensed,"Franklin Gothic",sans-serif !important;
+ font-size:1em;
+ font-weight:700;
+ text-transform:uppercase
+}
+.footer #accordion .panel .panel-heading a {
+ display:block
+}
+.footer #accordion .panel .panel-heading a:link,
+.footer #accordion .panel .panel-heading a:visited,
+.footer #accordion .panel .panel-heading a:hover,
+.footer #accordion .panel .panel-heading a:active {
+ color:#cfb991 !important;
+ text-decoration:none
+}
+.footer #accordion .panel .panel-collapse .panel-body {
+ border:none;
+ padding:0
+}
+.footer #accordion .panel .panel-collapse .panel-body ul {
+ padding:0;
+ list-style-type:none
+}
+.footer #accordion .motto {
+ clear:both;
+ padding:15px 15px 0;
+ font-size:1.25em;
+ text-align:center
+}
+.footer #accordion .motto .taglineContainer {
+ width:90%;
+ margin:0 auto
+}
+.footer #accordion .motto .taglineContainer--150 {
+ width:70%
+}
+.footer #accordion .motto .tagline {
+ position:relative;
+ display:block;
+ padding-bottom:13.95349%
+}
+.footer #accordion .motto .tagline--150 {
+ padding-bottom:13.52942%;
+ transition:filter 0.25s ease-in
+}
+.footer #accordion .motto .tagline--150:link,
+.footer #accordion .motto .tagline--150:visited {
+ filter:brightness(1)
+}
+.footer #accordion .motto .tagline--150:hover,
+.footer #accordion .motto .tagline--150:active,
+.footer #accordion .motto .tagline--150:focus {
+ filter:brightness(1.1)
+}
+.footer #accordion .motto .tagline--150:focus {
+ outline-offset:4px;
+ outline:dotted 1px #fff
+}
+.footer #accordion .motto .tagline .logo-horizontal,
+.footer #accordion .motto .tagline .logo-vertical,
+.footer #accordion .motto .tagline .horizontal,
+.footer #accordion .motto .tagline .vertical {
+ top:0;
+ right:0;
+ bottom:0;
+ left:0
+}
+.footer #accordion .motto .tagline .logo-vertical,
+.footer #accordion .motto .vertical {
+ display:none
+}
+.footer #accordion .motto .social {
+ clear:both;
+ display:block;
+ width:100%
+}
+.footer #accordion .motto a {
+ display:inline-block;
+ position:relative;
+ margin:2.5px 2%;
+ text-align:center
+}
+.footer #accordion .motto a .text-hidden {
+ position:absolute;
+ display:block;
+ top:-1000px;
+ left:-1000px
+}
+.footer #accordion .motto a .fa:after {
+ position:absolute;
+ display:block;
+ overflow:hidden;
+ width:0;
+ height:0
+}
+.footer #accordion .motto a .fa-facebook:after {
+ content:"Facebook"
+}
+.footer #accordion .motto a .fa-facebook-square:after {
+ content:"Facebook"
+}
+.footer #accordion .motto a .fa-twitter:after {
+ content:"Twitter"
+}
+.footer #accordion .motto a .fa-twitter-square:after {
+ content:"Twitter"
+}
+.footer #accordion .motto a .fa-youtube:after {
+ content:"Youtube"
+}
+.footer #accordion .motto a .fa-youtube-square:after {
+ content:"Youtube"
+}
+.footer #accordion .motto a .fa-instagram:after {
+ content:"Instagram"
+}
+.footer #accordion .motto a .fa-instagram-square:after {
+ content:"Instagram"
+}
+.footer #accordion .motto a .fa-pinterest:after {
+ content:"Pinterest"
+}
+.footer #accordion .motto a .fa-pinterest-square:after {
+ content:"Pinterest"
+}
+.footer #accordion .motto a .fa-google-plus:after {
+ content:"Google Plus"
+}
+.footer #accordion .motto a .fa-google-plus-square:after {
+ content:"Google Plus"
+}
+.footer #accordion .motto a .fa-linkedin:after {
+ content:"Linked In"
+}
+.footer #accordion .motto a .fa-linkedin-square:after {
+ content:"Linked In"
+}
+.footer #accordion .motto a .fa-amazon:after {
+ content:"Amazon"
+}
+.footer #accordion .motto a .fa-amazon-square:after {
+ content:"Amazon"
+}
+.footer #accordion .motto a:link,
+.footer #accordion .motto a:visited {
+ color:#999;
+ text-decoration:none
+}
+.footer #accordion .motto a:hover,
+.footer #accordion .motto a:active {
+ color:#fff;
+ text-decoration:none
+}
+.footer #accordion .motto img {
+ display:block;
+ float:none;
+ max-width:100%;
+ margin:0 auto 5px
+}
+@media (max-width: 767px) {
+ .footer #accordion .panel .panel-heading .panel-title>a:visited,
+ .footer #accordion .panel .panel-heading .panel-title>a:active,
+ .footer #accordion .panel .panel-heading .panel-title>a:link {
+  font-weight:700
+ }
+ .footer #accordion .panel .panel-heading a .fa-plus {
+  display:none;
+  float:right;
+ }
+ .footer #accordion .panel .panel-heading a .fa-minus {
+  display:block;
+  float:right;
+ }
+ .footer #accordion .panel .panel-heading a.collapsed {
+  font-weight:700
+ }
+ .footer #accordion .panel .panel-heading a.collapsed .fa-plus {
+  display:block
+ }
+ .footer #accordion .panel .panel-heading a.collapsed .fa-minus {
+  display:none
+ }
+ .footer #accordion .panel .panel-collapse {
+  padding-left:15px
+ }
+ .footer #accordion .motto {
+  padding:2.93rem 1rem 1.93rem
+ }
+ .footer #accordion .motto .taglineContainer {
+  width:80%
+ }
+ .footer #accordion .motto .taglineContainer--150 {
+  width:58%
+ }
+ .footer #accordion .motto .taglineContainer .tagline {
+  padding-bottom:9%
+ }
+ .footer #accordion .motto .taglineContainer .tagline .logo-horizontal,
+ .footer #accordion .motto .taglineContainer .tagline .horizontal {
+  max-height:45.3px;
+  width:100%
+ }
+}
+@media (min-width: 768px) {
+ .footer {
+  padding:3.125rem 0
+ }
+ .footer #accordion {
+  margin:0 -30px;
+  padding:0 15px 0
+ }
+ .footer #accordion .panel {
+  float:left;
+  width:50%;
+  padding:0 30px 15px;
+  border:none;
+  font-size:0.875rem;
+  line-height:1.6875em
+ }
+ .footer #accordion .panel .panel-heading {
+  display:block;
+  padding:0;
+  background-color:transparent;
+  font-size:1.3125em;
+  line-height:1em
+ }
+ .footer #accordion .panel .panel-heading .panel-title {
+  font-family:acumin-pro-semi-condensed,"Franklin Gothic",sans-serif;
+  padding-top:0;
+  padding-bottom:0.625rem;
+  font-size:1em
+ }
+ .footer #accordion .panel .panel-heading .panel-title a {
+  cursor:default;
+  color:#cfb991;
+  border-bottom:none;
+  font-weight:700
+ }
+ .footer #accordion .panel .panel-heading .panel-title .svg-inline--fa {
+  display:none
+ }
+ .footer #accordion .panel a {
+  padding:10px 0 2px
+ }
+ .footer #accordion .panel .panel-collapse {
+  display:block;
+  height:auto !important
+ }
+ .footer #accordion .motto {
+  clear:none;
+  padding:32px 30px 0;
+  font-size:1.85em;
+  text-align:center
+ }
+ .footer #accordion .motto .taglineContainer {
+  display:block;
+  width:70%
+ }
+ .footer #accordion .motto .taglineContainer .tagline {
+  padding-bottom:10%
+ }
+ .footer #accordion .motto .taglineContainer .tagline .logo-horizontal,
+ .footer #accordion .motto .taglineContainer .tagline .horizontal {
+  max-height:45.3px;
+  width:100%
+ }
+ .footer #accordion .motto .tagline .logo-vertical,
+ .footer #accordion .motto .vertical {
+  display:none
+ }
+}
+@media (min-width: 992px) {
+ .footer #accordion .panel {
+  width:20%;
+  padding:0 15px
+ }
+ .footer #accordion .motto {
+  float:left;
+  width:20%;
+  padding:0px 15px 0 15px;
+  font-size:1.35em
+ }
+ .footer #accordion .motto .taglineContainer {
+  width:auto
+ }
+ .footer #accordion .motto .taglineContainer--150 {
+  float:left;
+  width:70%
+ }
+ .footer #accordion .motto .taglineContainer .tagline {
+  margin-bottom:10px;
+  padding-bottom:0% /* 2022-02-10 JJR - was 20% */
+ }
+ .footer #accordion .motto .taglineContainer .tagline--150 {
+  padding-bottom:60.0794%
+ }
+ .footer #accordion .motto .tagline .logo-vertical,
+ .footer #accordion .motto .vertical {
+  display:block;
+  height:100px;
+  margin-left:auto
+ }
+ .footer #accordion .motto .logo-horizontal,
+ .footer #accordion .motto .horizontal {
+  display:none
+ }
+ .footer #accordion .motto .social {
+  padding-left:0.2rem
+ }
+ .footer #accordion .motto .social a {
+  float:left;
+  margin:4px 2.7%
+ }
+}
+@media (min-width: 1200px) {
+ .footer #accordion .motto .tagline .logo-vertical,
+ .footer #accordion .motto .vertical {
+  display:block;
+  height:auto; /* 2022-02-10 JJR was 114px; fits Purdue logo */
+  width:186px;
+  margin-left:auto
+ }
+ .footer #accordion .motto .social {
+  padding-left:1.5rem;
+
+  border-top:none
+ }
+}
+.bottom {
+ overflow:hidden;
+ padding:1rem 1rem 0.5rem;
+ background-color:#3b3b3b;
+ color:#ccc;
+ text-align:center;
+ line-height:1.5em
+}
+.bottom a:link {
+ color:#ccc
+}
+.bottom a:visited {
+ color:#ccc
+}
+.bottom a:hover {
+ color:#ccc
+}
+.bottom a:active {
+ color:#ccc
+}
+.bottom p {
+ margin:0 !important;
+ padding-bottom:0.5rem
+}
+@media (min-width: 768px) {
+ .bottom {
+  font-size:.875rem
+ }
+ .bottom a {
+  font-weight:400
+ }
+}
+@media (max-width: 767px) {
+ .bottom {
+  font-size:.875rem !important
+ }
+ .bottom a {
+  font-weight:400
+ }
+}

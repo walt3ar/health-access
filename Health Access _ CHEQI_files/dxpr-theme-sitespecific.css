@@ -1,0 +1,100 @@
+/* dxpr-theme-sitespecific.css
+ *
+ * site-specific customizations for the CoP's 2022 DXPR theme
+ * e.g. css for specific content types
+ */
+
+.main-container .alumni-spotlight img,
+.main-container .testimonial img,
+.main-container .student-representative img {
+    float:left;
+    margin-right:15px;
+    margin-bottom:15px;
+}
+
+.main-container .alumni-spotlight .field--name-body {
+    margin:15px 0 15px 0;
+}
+
+/* front-page rotating testimonials */
+.view-front-page-rotating-testimonials img {
+    float:left;
+    margin-right:15px;
+/*    padding-bottom:15px; */
+}
+.view-front-page-rotating-testimonials {
+    border-top:3px solid black;
+    background-color:#21252a;
+    color:white;
+}
+.view-front-page-rotating-testimonials .slick__slide {
+    margin-left:50px;
+    margin-right:50px;
+}
+
+/* Testimonials main page */
+.view-testimonials img {
+    float:left;
+    margin-right:15px;
+    padding-bottom:15px;
+}
+
+/* main page tiles */
+/* all tiles */
+.view-tiles .view-content {
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:center; /* will center last tile if there is an uneven number of them */
+}
+
+.tiles-flex-item { /* individual item for flex display, using "unformatted list" display */
+    display: block;
+    flex-basis: 0;
+    flex-grow: 1;
+    flex-shrink: 1;
+    padding: .75rem;
+}
+
+.tiles-flex-item a {
+	display:flex;
+	box-shadow: 0 .5em 1em -.125em rgba(0,0,0,.1),0 0 0 1px rgba(0,0,0,.02);
+	padding:1rem;
+	align-items:center !important;
+	border-radius:0.25rem;
+	max-width:100;
+	posiiton:relative;
+	height:100%;
+}
+
+.tiles-flex-item a:hover {
+	text-decoration:none;
+	box-shadow: 0 .5em 1em -.125em rgba(0,0,0,.5),0 0 0 1px rgba(0,0,0,.02);
+}
+
+.cheqi-tile-text-area {
+	font-weight:bold;
+	font-size:1.25rem;
+	align-items: center;
+    display: flex;
+	color:black;
+    flex-direction: column;
+    justify-content: center;
+	width:100%;
+}
+
+.cheqi-tile-text-area p {
+	text-align:center;
+	margin-top: 0 !important;
+}
+
+.cheqi-tile-image {
+	width:128px;
+	margin-right:1rem;
+	flex-basis:auto;
+	flex-grow:0;
+	flex-shrink:0;
+}
+.cheqi-tile-readmore {
+	color:#8e6f3e;
+}

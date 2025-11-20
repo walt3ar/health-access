@@ -1,0 +1,326 @@
+/*
+ * CoP DXPR SubTHeme CSS override file
+ * 2022-02-XX JJR
+ * */
+
+/* Purdue's official fonts, as referenced in https://marcom.purdue.edu/toolbox/cms/ */
+@import url("https://www.purdue.edu/purdue/fonts/united-sans/united-sans.css");
+@import url("https://use.typekit.net/ghc8hdz.css");
+body { font-family:acumin-pro, "Franklin Gothic", sans-serif !important; }
+
+h1 { font-weight:400; font-style:normal; font-family:'United Sans', Impact !important; }
+.page-title{text-align:center;}
+
+/* Float ONE of top menus to left, but not both! */
+.menu--find-info-for { float:left !important; }
+
+/* Header customizations */
+.dxpr-theme-header { background:#ffffff !important; color:#000000 !important; }
+.dxpr-theme-header .dxpr-theme-main-menu a { color:#000000 !important; }
+.body--dxpr-theme-nav-desktop .dxpr-theme-header--top .block,.body--dxpr-theme-nav-desktop .dxpr-theme-header--top nav nav { float:right; position:static; }
+.body--dxpr-theme-nav-desktop .dxpr-theme-header--top .nav { float:right; }
+.dropdown-menu { z-index:5000; } /* because navigation section set to 4050 */
+.dxpr-theme-branding-header .logo-print { display:none; }
+
+/* override colors for "active" menu */
+.dropdown-menu .active a { background-color:#ffffff !important; color:#000000 !important; }
+
+/* Fix breadcrumbs */
+#page-title ol.breadcrumb a { }
+#page-title ol.breadcrumb a:hover { text-decoration:underline; }
+/*#page-title ol.breadcrumb li:not(:last-child)::after { content:'>'; display:inline-block; padding:0 0.5em; } /* specify in appearance > Settings > COP_DXPR_subtheme > Page Title */
+
+/* main body tweaks */
+.content {margin-left:10px; margin-right:10px; }
+
+/* Basic Pages */
+.field--name-field-image {
+    float:right;
+    margin: 0 0 20px 20px;
+}
+/*Purdue Color Variables*/
+:root {
+    --bolermaker-gold: #CFB991;
+    --aged: #8E6F3E;
+}
+
+/* CSS to get lists in views to look like lists on regular pages - 2025-03-25 JJR */
+.view-content ol li ol:not([type]) {
+  list-style-type: lower-alpha !important;
+}
+.view-content ol li ol:not([type]) li ol:not([type]) {
+  list-style-type: lower-roman !important;
+}
+
+.view-content ul, .view-content ol {
+  font-size: 1rem;
+}
+.view-content ul li + li, .view-content ol li + li {
+  margin-top: 0.5em;
+}
+.view-content ol:not(:last-child),
+.view-content ul:not(:last-child){
+  margin-bottom: 1em;
+}
+.view-content ol {
+  list-style-position: outside;
+  margin-left: 2em;
+  margin-top: 1em;
+}
+.view-content ol:not([type]) {
+  list-style-type: decimal;
+}
+.view-content ol:not([type]).is-lower-alpha {
+  list-style-type: lower-alpha;
+}
+.view-content ol:not([type]).is-lower-roman {
+  list-style-type: lower-roman;
+}
+.view-content ol:not([type]).is-upper-alpha {
+  list-style-type: upper-alpha;
+}
+.view-content ol:not([type]).is-upper-roman {
+  list-style-type: upper-roman;
+}
+.view-content ul {
+  list-style: disc outside;
+  margin-left: 2em;
+  margin-top: 1em;
+}
+.view-content ul ul {
+  list-style-type: circle;
+  margin-top: 0.5em;
+}
+.view-content ul ul ul {
+  list-style-type: square;
+}
+/* End of CSS to get lists in views to look like lists on regular pages */
+w/* Mark's custom CSS */
+.body--dxpr-theme-nav-desktop .dxpr-theme-header--top .nav > li > a, .body--dxpr-theme-nav-desktop .dxpr-theme-header--top .wrap-branding, .body--dxpr-theme-nav-desktop .dxpr-theme-header--top .block-dxpr-theme-helper {
+    height: 40px!important;
+    line-height: 40px!important;
+}
+.body--dxpr-theme-nav-desktop .dxpr-theme-header--top .dxpr-theme-main-menu {
+    height: 40px!important;
+}
+
+/* Purdue theming of menu */
+.body--dxpr-theme-nav-desktop .dxpr-theme-header--top .nav > li > a, .body--dxpr-theme-nav-desktop .dxpr-theme-header--top .wrap-branding, .body--dxpr-theme-nav-desktop .dxpr-theme-header--top .block-dxpr-theme-helper {
+    font-family: acumin-pro-semi-condensed, "Franklin Gothic", sans-serif;
+    font-weight: 400;
+    text-transform:uppercase;
+}
+/* Aged gold underline on hover */
+.body--dxpr-theme-nav-desktop .dxpr-theme-header--top .nav > li > a::after{
+    content:"";
+    height:2px;
+    width:calc(100% - 30.4px);
+    position:absolute;
+    bottom:9px;
+    left: 0.95rem;
+    background:var(--aged);
+    visibility:hidden;
+    transform:scalex(0);
+    transition: all 0.25s cubic-bezier(1, 0.25, 0, 0.75) 0s;
+
+}
+.body--dxpr-theme-nav-desktop .dxpr-theme-header--top .nav > li > a:hover::after{
+    transform:scalex(1);
+    visibility:visible;
+}
+
+.body--dxpr-theme-nav-desktop .dxpr-theme-header--top .nav .is-active::after{
+    content:"";
+    height:2px;
+    width:calc(100% - 30.4px);
+    position:absolute;
+    bottom:9px;
+    left: 0.95rem;
+    background:var(--aged);
+    visibility:visible;
+    transform:scalex(1);  
+}
+.expanded .dropdown{
+    font-family: "acumin-pro-condensed", sans-serif;
+    font-weight: 600;
+    font-size:19px!important;
+    text-transform:uppercase;    
+}
+
+.dropdown-menu > li > a::after {
+    content:"";
+    visibility:hidden!important;
+    transform:scalex(0);
+}
+
+/* set color of hamburger menu  */
+#dxpr-theme-menu-toggle span, #dxpr-theme-menu-toggle span:before, #dxpr-theme-menu-toggle span:after {
+    background:var(--aged)!important;
+}
+.dxpr-theme-header--side .dxpr-theme-main-menu li a{
+    color:white!important;
+}
+.menu__breadcrumbs a{
+    color:#CFB991;
+}
+
+/* fix logo */
+.wrap-branding {max-width:50%;float:left;}
+
+/*apply now button*/
+.cta-apply-now{
+    outline:1px solid var(--aged);
+    width:150px;height:40px;
+    margin-right:150px;
+    font-family:"acumin-pro-condensed",sans-serif;
+    font-weight:400;
+    font-size:20px;
+    text-transform:uppercase;
+    text-align:center;
+    line-height:39px; max-width:25%;float:right;
+    margin-top:30px;
+    display: block;
+}
+
+/******************************************/
+/* slick carousel theming for hero region */
+/******************************************/
+
+/* constant settings */
+.hero-slideshow .slick-list {
+    margin-bottom:30px;	/* space content away from slideshow */
+}
+
+.hero-slideshow .slide__title,
+.hero-slideshow .slide__title a {
+    color: white;
+    font-family: "acumin-pro-condensed",serif;
+}
+.hero-slideshow .slide__title a:hover {
+    text-decoration:underline;
+}
+
+@media (min-width:768px) {
+    .hero-slideshow .slide__caption{
+        padding:0;
+    }
+    .hero-slideshow .slide__title {
+        position: absolute;
+        width: 27%;
+        right: 3%;
+        bottom:5%;
+        font-size:2.25vw; /* 1vw = 1% of viewport width */
+    }
+    .hero-slideshow .slide__overlay::before{
+        content:""; /* must have, or background does not display */
+        position:absolute;
+        background-color:black;
+        clip-path: polygon(70% 0px, 100% 0px, 100% 100%, 65% 100%);
+        height: 100%;
+        width: 100%;
+        opacity:0.5;
+        top:0;
+        right: 0;
+    }
+}
+
+/* small devices  */
+@media (max-width:767.98px) {
+    .hero-slideshow .slide__title {
+        background-color: black;
+        border:4px solid black;
+        font-size:1.5em;
+        position:static;
+        width:auto;
+        margin:0;
+    }
+}
+
+/*************************************************/
+/* end of slick carousel theming for hero region */
+/*************************************************/
+
+/* directory listing css */
+.directory-listing .control-label {
+    display:block;
+    font-weight: bold;
+}
+
+.directory-listing .form-submit {
+    margin-top:22px;
+    margin-left:8px;
+    margin-right:4px;
+}
+
+.directory-listing .edit-reset {
+    margin-left:8px;
+}
+
+/* directory entry CSS */
+.view-directory .directory-photo {
+    float:right;
+    margin-left: 20px;
+}
+
+.view-directory .views-label {
+    font-weight:bold;
+    width: 100px;
+    display:inline-block;
+    text-align:right;
+    vertical-align:top;
+    margin-right:6px;
+}
+
+.view-directory .field-content {
+    display:inline-block;
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .body--dxpr-theme-nav-mobile #logo{max-height:40px;}
+    .wrap-branding {max-width:100%;float:none;}
+    .cta-apply-now{display:none;}
+    .menu__breadcrumbs a{
+        color:#CFB991!important;
+    }
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) { 
+    .body--dxpr-theme-nav-mobile #logo{max-height:40px!important;}
+    .wrap-branding {max-width:100%;float:none;}
+    .cta-apply-now{display:none;}
+    .menu__breadcrumbs a{
+        color:#CFB991!important;
+    }
+}
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+    .body--dxpr-theme-nav-mobile #logo{max-height:40px!important;}
+    .wrap-branding {max-width:100%;float:clear;}   
+    .cta-apply-now{display:none;}
+    .menu__breadcrumbs a{
+        color:#CFB991!important;
+    }
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+
+}
+
+/* app.wptheme.css hides tables on small screens - why??? */
+@media screen and (max-width: 1023px) {
+  .wp-block-table table {
+    display: inline-table !important;
+  }
+}
+
+/* printing tweaks 2022-02-10 JJR */
+@media print {
+    .dxpr-theme-secondary-header, .navbar, .breadcrumb, #block-footermenusfrompurdue { display:none; }
+    .dxpr-theme-branding-header .wrap-branding a.logo { display:none; }
+    .dxpr-theme-branding-header .logo-print { display:block; }
+    .cta-apply-now {display:none; }
+}
+

@@ -1,0 +1,14 @@
+.dxpr-theme-branding-header { z-index:4050; padding-top:5px; padding-bottom:7px; background:#000100; color:#fffeff; }
+.dxpr-theme-branding-header a { color:#fffffe; }
+.dxpr-theme-branding-header a:hover,.dxpr-theme-branding-header a:focus { color:#fffffe; }
+.dxpr-theme-branding-header .block,.dxpr-theme-branding-header p { margin-bottom:0; }
+.dxpr-theme-branding-header .branding-header-container { margin-bottom:0; }
+.dxpr-theme-branding-header .wrap-branding { max-height:125px; }
+.dxpr-theme-branding-header .wrap-branding #logo { max-height:100px; }
+
+/*
+.dxpr-theme-branding-header ul.menu { float:right; margin-top:0; margin-bottom:0; }
+.dxpr-theme-branding-header ul.menu a { padding-top:0; padding-bottom:0; line-height:1.2em; }
+.dxpr-theme-branding-header ul.menu a:hover,.dxpr-theme-branding-header ul.menu a:focus { background:transparent; }
+.dxpr-theme-branding-header ul.menu li { float:left; }
+*/
