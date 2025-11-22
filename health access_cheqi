@@ -246,7 +246,7 @@
 
 
 
-<div class="wrap-containers">
+<div class="wrap-containers" style="min-height:550px;">
 
         <div class="region region-highlighted">
     <div data-drupal-messages-fallback="" class="hidden"></div>
