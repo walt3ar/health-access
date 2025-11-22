@@ -300,6 +300,11 @@
 			<input type="search" name="q" placeholder="Search...">
 			<button type="submit">Search</button>
 		</form>
+		<div style="margin-top: 120px; text-align: center;">
+    <h2>Our Mission</h2>
+    <textarea style="width: 631px; height: 94px; padding: 10px; font-size: 16px; text-align: center; font-family: Arial, sans-serif;" readonly="">Our goal is to make healthcare as accessible to the public as possible utilizing generative AI. We work with credible sources and growing intelligence to offer reliable aid for those dealing with medical problems or have general medical inquiries based in curiosity.
+    </textarea>
+</div>
       </div>
 
       
