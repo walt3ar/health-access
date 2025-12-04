@@ -293,19 +293,34 @@
             <div class="region region-content">
       <article data-history-node-id="156" class="page full clearfix node">
 
-  
+  <!--Search and mission-->
     
   <div class="content">
         <form action="/search" method="get">
 			<input type="search" name="q" placeholder="Search...">
 			<button type="submit">Search</button>
 		</form>
-		<div style="margin-top: 90px; text-align: center;">
+		<div style="margin-top: 130px; text-align: center;">
     <h2>Our Mission</h2>
     <textarea style="width: 631px; height: 94px; padding: 10px; font-size: 16px; text-align: center; font-family: Arial, sans-serif;" readonly="">Our goal is to make healthcare as accessible to the public as possible utilizing generative AI. We work with credible sources and growing intelligence to offer reliable aid for those dealing with medical problems or have general medical inquiries based in curiosity.
     </textarea>
 </div>
       </div>
+
+<!--other resources-->
+<div class="content">
+		<div style="margin-bottom: 10px; text-align: 20%;">
+	<h2>Other Resources</h2>
+    <h6>Resource 1</h6>
+    <textarea style="width: 80px; height: 80px; padding: 10px; font-size: 16px; text-align: left; font-family: Arial, sans-serif;" readonly="">hello
+    </textarea>
+	<textarea style="width: 80px; height: 80px; padding: 10px; font-size: 16px; text-align: left; font-family: Arial, sans-serif;" readonly="">hello
+    </textarea>
+	<textarea style="width: 80px; height: 80px; padding: 10px; font-size: 16px; text-align: left; font-family: Arial, sans-serif;" readonly="">hello
+    </textarea>
+</div>
+      </div>
+
 
       
   
@@ -391,7 +406,7 @@
 
 <div style="
     position:absolute;
-    top:60%;
+    top:25%;
     left:50%;
     transform:translateX(-50%);
     width:300px;
