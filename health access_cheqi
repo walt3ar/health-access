@@ -10,7 +10,7 @@
 <meta name="HandheldFriendly" content="true">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="icon" href="https://cheqi.pharmacy.purdue.edu/themes/custom/cop_dxpr_subtheme/favicon.ico" type="image/vnd.microsoft.icon">
-<
+
     <title>Sendy Servers - CHEQI</title>
     <style>ul.dropdown-menu {display: none;}</style>
     <link rel="stylesheet" media="all" href="./Health Access _ CHEQI_files/progress.module.css">
@@ -81,6 +81,16 @@
 <script src="./Health Access _ CHEQI_files/all.js.download" defer="" crossorigin="anonymous"></script>
 <script src="./Health Access _ CHEQI_files/v4-shims.js.download" defer="" crossorigin="anonymous"></script>
 <script src="./Health Access _ CHEQI_files/gtag.js.download"></script><script async="" src="./Health Access _ CHEQI_files/js" type="text/javascript"></script>
+
+<script>
+//let userChatInput = "";
+function storePrompt(promptText) {
+    document.getElementById("promptOutput").textContent = promptText;
+    //output.innerHTML += `<div style="margin-bottom:5px;">${promptText}</div>`;
+    // OPTIONAL: auto-send to chat AI input box if you want
+    // document.getElementById("userChatInput").value = storedPrompt;
+}
+</script>
 
   </head>
   <body class="page-node-156 html path-node page-node-type-page has-glyphicons body--dxpr-theme-header-top body--dxpr-theme-header-not-overlay body--dxpr-theme-header-normal body--dxpr-theme-nav-mobile">
@@ -293,7 +303,7 @@
             <div class="region region-content">
       <article data-history-node-id="156" class="page full clearfix node">
 
-  <!--Search and mission-->
+  <!--formatting and mission-->
     
   <div class="content">
         <form action="/search" method="get">
@@ -302,24 +312,37 @@
 		</form>
 		<div style="margin-top: 130px; text-align: center;">
     <h2>Our Mission</h2>
-    <textarea style="width: 631px; height: 94px; padding: 10px; font-size: 16px; text-align: center; font-family: Arial, sans-serif;" readonly="">Our goal is to make healthcare as accessible to the public as possible utilizing generative AI. We work with credible sources and growing intelligence to offer reliable aid for those dealing with medical problems or have general medical inquiries based in curiosity.
-    </textarea>
+    <div style="margin: 0 auto; width: 631px; height: 94px; padding: 10px; font-size: 16px; text-align: center; font-family: Arial, sans-serif;" readonly="">Our goal is to make healthcare as accessible to the public as possible utilizing generative AI. We work with credible sources and growing intelligence to offer reliable aid for those dealing with medical problems or have general medical inquiries based in curiosity.
+    </div>
 </div>
       </div>
 
-<!--other resources-->
+<!--format search-->
 <div class="content">
-		<div style="margin-bottom: 10px; text-align: 20%;">
-	<h2>Other Resources</h2>
-    <h6>Resource 1</h6>
-    <textarea style="width: 80px; height: 80px; padding: 10px; font-size: 16px; text-align: left; font-family: Arial, sans-serif;" readonly="">hello
-    </textarea>
-	<textarea style="width: 80px; height: 80px; padding: 10px; font-size: 16px; text-align: left; font-family: Arial, sans-serif;" readonly="">hello
-    </textarea>
-	<textarea style="width: 80px; height: 80px; padding: 10px; font-size: 16px; text-align: left; font-family: Arial, sans-serif;" readonly="">hello
-    </textarea>
+    <div style="margin-bottom: 10px;">
+        <h3>Format Search</h3>
+        
+
+        <button class="resource-btn" onclick="storePrompt('Give me informative responses catered to students')">Student</button>
+        <button class="resource-btn" onclick="storePrompt('Give me information about at-home care for my needs')">At-Home Care</button>
+        <button class="resource-btn" onclick="storePrompt('Search relevant and reliable health products for my needs')">Products</button>
+
+        <div style="
+    width: 500px; 
+    height: 20px; 
+    padding: 3px; 
+    font-size: 12px; 
+    text-align: left; 
+    font-family: Arial, sans-serif;
+    "> 
+    Enhance your search by receiving information catered to your format
 </div>
-      </div>
+<div id="promptOutput" style="border:1px solid #ccc; padding:10px; min-height:40px; white-space:pre-wrap;">
+</div>
+
+        
+    </div>
+</div>
 
 
       
@@ -416,10 +439,7 @@
   <label for="sendy-chat-input" style="color:black; font-weight:bold;">
     Enter your health inquiry:
   </label>
-  <input id="sendy-chat-input"
-         type="text"
-         placeholder="Type your question..."
-         style="
+  <input id="sendy-chat-input" type="text" placeholder="Type your question..." style="
             width:100%;
             padding:8px;
             border-radius:5px;
@@ -429,11 +449,12 @@
 
 <script>
   // Variable to store user input
-  let userChatInput = "";
+  let userchatInput = "";
 
   document.getElementById("sendy-chat-input").addEventListener("input", function(e) {
-    userChatInput = e.target.value;
+    userchatInput = e.target.value; 
   });
+storePrompt(userChatInput);
 </script>
 
 
