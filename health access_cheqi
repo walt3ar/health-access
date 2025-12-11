@@ -426,7 +426,7 @@ function storePrompt(promptText) {
 
 <div style="
     position:absolute;
-    top:33%;
+    top:40%;
     left:50%;
     transform:translateX(-50%);
     width:300px;
@@ -443,12 +443,12 @@ function storePrompt(promptText) {
             border:1px solid #ccc;
          ">
 </div>
-<button onclick="sendToAI()" style="position: absolute; top: 38%; left: 47%; padding: 10px 20px; font-size: 16px;">
+<button onclick="sendToAI()" style="position: absolute; top: 45%; left: 47%; padding: 10px 20px; font-size: 16px;">
         Submit
     </button>
 
 <!--Response-->
-<div id="aiResponse" style="position: absolute; top: 22%; left: 30%; white-space: pre-wrap; padding: 10px; border: 1px solid #ccc; width: 40%; min-height: 140px;">
+<div id="aiResponse" style="position: absolute; top: 32%; left: 30%; white-space: pre-wrap; padding: 10px; border: 1px solid #ccc; width: 40%; min-height: 140px;">
     </div>
 
 <!--WIP-->
