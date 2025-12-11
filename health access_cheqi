@@ -85,7 +85,7 @@
 <script>
 //let userChatInput = "";
 function storePrompt(promptText) {
-    document.getElementById("promptOutput").textContent = promptText;
+    document.getElementById("aiResponse").textContent = promptText;
     //output.innerHTML += `<div style="margin-bottom:5px;">${promptText}</div>`;
     // OPTIONAL: auto-send to chat AI input box if you want
     // document.getElementById("userChatInput").value = storedPrompt;
@@ -310,16 +310,9 @@ function storePrompt(promptText) {
 			<input type="search" name="q" placeholder="Search...">
 			<button type="submit">Search</button>
 		</form>
-		<div style="margin-top: 130px; text-align: center;">
-    <h2>Our Mission</h2>
-    <div style="margin: 0 auto; width: 631px; height: 94px; padding: 10px; font-size: 16px; text-align: center; font-family: Arial, sans-serif;" readonly="">Our goal is to make healthcare as accessible to the public as possible utilizing generative AI. We work with credible sources and growing intelligence to offer reliable aid for those dealing with medical problems or have general medical inquiries based in curiosity.
-    </div>
-</div>
-      </div>
-
 <!--format search-->
 <div class="content">
-    <div style="margin-bottom: 10px;">
+    <div style="margin-top: 300px;">
         <h3>Format Search</h3>
         
 
@@ -337,12 +330,16 @@ function storePrompt(promptText) {
     "> 
     Enhance your search by receiving information catered to your format
 </div>
-<div id="promptOutput" style="border:1px solid #ccc; padding:10px; min-height:40px; white-space:pre-wrap;">
-</div>
 
         
     </div>
 </div>
+		<div style="margin-bottom: 10px; margin-top: 20px; text-align: center;">
+    <h2>Our Mission</h2>
+    <div style="margin: 0 auto; width: 750px; height: 95px; padding: 10px; font-size: 16px; text-align: center; font-family: Arial, sans-serif;" readonly="">Our goal is to make healthcare as accessible to the public as possible utilizing generative AI. We work with credible sources and growing intelligence to offer reliable aid for those dealing with medical problems or have general medical inquiries based in curiosity.
+    </div>
+</div>
+      </div>
 
 
       
@@ -429,7 +426,7 @@ function storePrompt(promptText) {
 
 <div style="
     position:absolute;
-    top:25%;
+    top:33%;
     left:50%;
     transform:translateX(-50%);
     width:300px;
@@ -446,7 +443,15 @@ function storePrompt(promptText) {
             border:1px solid #ccc;
          ">
 </div>
+<button onclick="sendToAI()" style="position: absolute; top: 38%; left: 44%; padding: 10px 20px; font-size: 16px;">
+        Submit
+    </button>
 
+<!--Response-->
+<div id="aiResponse" style="position: absolute; top: 22%; left: 30%; white-space: pre-wrap; padding: 10px; border: 1px solid #ccc; width: 40%; min-height: 140px;">
+    </div>
+
+<!--WIP-->
 <script>
   // Variable to store user input
   let userchatInput = "";
